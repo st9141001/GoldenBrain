@@ -1,0 +1,111 @@
+﻿資訊金頭腦題目		
+ANS	NO	題目
+C	20	即將推出的行動電話行動通訊標準是下列何者？ (A) 2G (B) 3G (C) 4G (D) 5G
+B	19	蘋果電腦現任執行長Tim Cook是在哪一年接手擔任該職位？ (A) 2010 (B) 2011 (C) 2012 (D) 2013
+A	21	根據2013年11月20日的自由時報報導，蘋果iOS的下載總量已經突破？ (A) 500億次 (B) 550億次 (C) 600億次 (D) 650億次
+C	22	國內科技大廠中，哪2間公司被稱為面板雙虎？ (A) 友達、光寶 (B) 群創、日月光 (C) 友達、群創 (D) 光寶、日月光
+B	23	電腦遊戲<英雄聯盟>Season 3世界冠軍賽於2013年10月5日舉行，請問是由下列哪一隊取得世界冠軍？ (A) 中國皇族(Royal Club) (B) 南韓SKT T1 (C) 台北暗殺星(TPA) (D) Azubu Frost
+D	24	下列何者不是電玩遊戲的製作公司？ (A) EA Sports (B) Blizzard Entertainment (C) 智冠科技 (D) 宏遠科技
+C	25	下列哪一款電玩遊戲不是出自Blizzard Entertainment？ (A) 暗黑破壞神 (B) 魔獸世界 (C) 世紀帝國 (D) 星海爭霸
+A	32	根據中國時報2013年11月19日報導，國際市調機構IDC針對日本手機市場所做的報告，第三季日本智慧型手機，哪一間市佔率最高？ (A) 蘋果 (B) 三星 (C) 宏達電 (D) Sony
+A	33	根據中國時報2013年11月19日報導，Youtube亞太區營運總監表示，使用行動裝置觀看Youtube比例愈來愈高，全球目前Youtube流量，有幾成來自行動裝置？ (A) 4成 (B) 5成 (C) 6成 (D) 7成
+B	57	下列何者是不同類型的硬體裝置？ (A) iPhone (B) Nexus 7 (C) HTC one (D) 小米機
+C	58	下列何者是不同類型的硬體裝置？ (A) iPad (B) Nexus 7 (C) HTC one (D) Galaxy Tab
+D	54	下列何者是不同類型的網站？ (A) eBay (B) 淘寶網 (C) 露天 (D) 微博
+B	34	根據中國時報2013年11月19日報導，2013年Google與易普索市場調查研究公司（Ipsos MediaCT）的研究報告顯示台灣人在智慧型手機的應用程式安裝率為每人平均多少個？ (A) 20個 (B) 30個 (C) 40個 (D) 45個
+D	55	下列何者是不同類型的軟體？ (A) Windows 7 (B) Unix (C) OS X (D) Android
+B	56	下列何者是不同類型的電腦硬體裝置？ (A) 鍵盤 (B) 螢幕 (C) 滑鼠 (D) 繪圖板
+B	59	下列何者是不同類型的軟體？ (A) PhotoImpact (B) Photobucket (C) Photocap (D) Photoshop
+A	60	下列何者是不同類型的活動？ (A) TED (B) Computex (C) Comdex Fall (D) CeBIT
+A	61	有資訊領域諾貝爾獎之稱的是？ (A) 度林獎 (B) 賈伯斯獎 (C) 三星獎 (D) 赫爾辛基獎
+A	62	科幻小說家阿西莫夫訂定了重要的機器人行為準則，也就是著名的機器人? (A) 三大法則 (B) 五大法則 (C) 六大法則 (D) 十大法則
+C	63	下列何者是IBM的超級電腦，曾經擊敗過世界西洋棋王? (A) 思考 (B) 深思 (C) 深藍 (D) 將軍
+A	64	下列何者是非常受歡迎的雲端記事軟體？ (A) Evernote (B) Skydrive (C) Dropbox (D) SaveIt
+C	51	下列何者是不同類型的網路應用？ (A) Plurk (B) Twitter (C) PTT (D) 微博
+D	52	下列何者是不同類型的網路技術？ (A) Wifi (B) 藍芽 (C) 紅外線 (D) ADSL
+C	53	下列何者是不同類型的軟體？ (A) PC Cillion (B) Kapersky (C) Evernote (D) Avira
+A	65	下列何者是非常受歡迎的圖片分享社群網站？ (A) Pinterest (B) Pocket (C) Dropbox (D) Photocap
+A	66	世界上最大的社群網站是？ (A) Facebook (B) Google+ (C) Yahoo (D) Twitter
+A	67	世界上最大的影音分享網站是? (A) Youtube (B) Facebook (C) Google+ (D) Pixnet
+A	68	世界上最大規模的百科全書是? (A) Wikipedia (B) 大英百科 (C) 永樂大典 (D) 康熙辭典
+D	69	全世界最大的無廣告網站是? (A) 聯合國網站 (B) ISO (C) NGO (D) Wikipedia
+D	70	美國總統歐巴馬使用的手機品牌是? (A) iPhone (B) HTC (C) Samsung (D) BlackBerry
+D	71	史上第一封email的內容是? (A) Test (B) Hello (C) Hi (D) QWERTUIOP
+C	72	下列何者是google現正在研發的最新技術? (A) 無人駕駛帆船 (B) 無人駕駛飛機 (C) 無人駕駛汽車 (D) 無人駕駛火車
+D	73	史上第一個網路瀏覽器是? (A) IE (B) Chrome (C) Firefox (D) Mosaic
+A	74	世界上佔有率最高的智慧型手機平台是? (A) Android (B) iOS (C) Windows Mobile (D) symbian
+A	75	史上第一個擁有自己聲音的虛擬歌手是? (A) 初音未來 (B) 科博文 (C) 深藍 (D) Siri
+B	93	下列智慧型所機不使用Android OS? (A)HTC (B)NOKIA (C) SONY (D) 小米機
+B	94	下列智慧型手機OS是開放式免費作業系統? (A)Symbain (B) Android (C) iOS (D)Windows CE
+C	95	下列何者不是台灣三大網路骨幹? (A)TANET (B) SEEDNET (C) JANET (D) HINET
+A	96	三星手機Galaxy S4的非觸控式手勢操作又稱為? (A) 懸浮 (B) 空手 (C) 凌空 (D) 水飄手勢操作
+A	97	下列何者是4k電視的定義? (A) 4096x2160畫素 (B) 4000x2000畫素 (C) 4096x2048畫素 (D) 4096x4096畫素
+A	98	下列何者是FULL HD顯示器解析度的定義? (A)1920x1080 (B) 1080x1080 (C)1080P (D) 1920x720
+D	99	下列何者是錯的? (A) NFC是近距離無線通信 (B) NFC非接觸式點對點資料傳輸 (C) NFC是由RFID演變而來 (D) NFC應用於目前的悠遊卡
+C	35	根據中國時報2013年11月18日的報導，國內電信業龍頭表示截至2013年10月底為止，行動上網用戶達？ (A) 350萬戶 (B) 360萬戶 (C) 370萬戶 (D) 380萬戶
+B	36	根據中國時報2013年11月18日的報導，國際研究暨顧問機構顧能Gartner最新報告指出，在今年第三季全球手機終端銷售量總計為4億5560萬支，底下哪一間公司的銷售量是第一名？ (A) Apple (B) 三星 (C) 宏達電 (D) Sony
+D	37	根據中國時報2013年11月18日的報導，國際研究暨顧問機構顧能Gartner最新報告指出，Android在2013年第三季的市占率已達幾成？ (A) 5成 (B) 6成 (C) 7成 (D) 8成
+D	38	根據中國時報2013年11月18日的報導，底下哪一間公司最近推出了曲面智慧型手機？ (A) 三星 (B) Apple (C) Sony (D) LG
+C	39	資訊領域，最近很紅的一個新名詞為「海量資料」，或稱「巨量資料」，請問它的英文名稱是？ (A) Mega Data (B) Giga Data (C) Big Data (D) Large Data
+B	40	根據工研院IEK預期，2014年我國的IC產業整體產值將會突破？ (A) 1兆元 (B) 2兆元 (C) 3兆元 (D) 4兆元
+B	41	台灣最近（2013年10月以後）哪一間科技大廠，因為經營狀況不佳，宣布將執行企業變革計畫，由施振榮先生擔任變革委員會召集人？ (A) 華碩電腦 (B) 宏碁電腦 (C) 台積電 (D) 鴻海科技
+A	42	底下哪一間公司是國內主要的筆記型電腦的代工電腦大廠？ (A) 廣達電腦 (B) 宏碁電腦 (C) 華碩電腦 (D) 台積電
+B	43	底下哪一間公司是國內主要從事IC研發設計的公司？ (A) 台積電 (B) 聯發科技 (C) 大立光電 (D) 光寶科技
+D	44	根據中國時報2013年11月18日的報導，最近成功駭破通訊軟體Line系統的大學生是來自於國內哪一所大學？ (A) 台灣大學 (B) 交通大學 (C) 台灣科技大學 (D) 台北科技大學
+C	45	Google與哪一間科技大廠，合作推出Google Nexus 5的手機？ (A) 三星 (B) 宏達電 (C) LG (D) Sony
+D	46	台灣最近進行第4代行動通訊（4G）的競標，下列哪一間公司不在競標名單之中？ (A) 中華電信 (B) 國碁電子 (C) 台灣之星移動電信 (D) 宏達電
+D	47	第4代行動通訊（4G）時代即將來臨，下載1GB的HD電影，只需要？ (A) 10分鐘 (B) 5分鐘 (C) 3分鐘 (D) 1分鐘30秒
+C	48	下列哪一款手機或平板，並不支援4G規格？ (A) iPhone 5s (B) Nokia Lumia 1020 (C) hTc One (D) ASUS PadFone 2
+B	49	在中國大陸相當知名且CP值極高的智慧型手機品牌（其董事長是雷軍先生）是下列何者？ (A) 藍海手機 (B) 小米手機 (C) 雲天手機 (D) 小麥手機
+A	50	根據中國時報2013年10月25日的報導，下列哪一間公司因發生「寫手門」事件（在國內知名線上論壇上抹黑打擊其它公司產品），而被公平交易委員員裁罰1000萬元？ (A) 三星 (B) Apple (C) Sony (D) hTc
+A	76	目前世界上最多人使用的瀏覽器是? (A) Google Chrome (B) IE (C) Safari (D) Firefox
+D	77	全球資訊網(WWW)的發明者是? (A) Bill Gates (B) Steve Jobs (C) Tim Berners-Lee (D) Ray Tomlinson 
+D	78	世界上第一個網站的建置者是? (A) Bill Gates (B) Steve Jobs (C) Tim Berners-Lee (D) Ray Tomlinson 
+D	79	率先由SONY及飛利浦研發出來的CD，錄音長度為? (A) 90分鐘 (B) 60分鐘 (C) 120分鐘 (D) 74分42秒
+A	80	下列何者是Google最神秘的高科技研發單位? (A) Google X (B) Google Z (C) Google A+ (D) Google G
+A	81	目前最新的4G手機通信技術指的是? (A) LTE (B) TEL (C) ELT (D) LET
+B	82	所謂無線充電又稱為? (A) 接觸式感應充電 (B) 感應充電 (C) 無力充電 (D) 有應充電
+B	83	下列何者是把郵件從電子信箱中傳輸到本地電腦的電子郵件協定? (A) SMPT (B) POP3 (C) IMPT (D) HTTP
+D	84	在WEB SEVER上看信的協定是? (A) SMPT (B) POP3 (C) IMPT (D) HTTP 
+C	85	Google Mail 的郵件類別是以? (A) 資料夾 (B) 書籤 (C) 標籤 (D) 類別 來分類
+A	86	靜宜大學的WEB BASE電子郵件類別是以? (A) 資料夾 (B) 書籤 (C) 標籤 (D) 類別 來分類
+D	87	目前最新的手機iPhone 5s 用的CPU是幾位元? (A) 8 (B) 16 (C) 32 (D) 64 位元
+C	88	電腦螢幕的獨立顯示卡中的處理器為? (A) CPU  (B) DPU  (C) GPU  (D) EPU
+B	89	電腦中為了處理速度之間的快慢常利用緩衝區(Buffer)，請問Main Memory與 CPU之間的緩衝區是 (A) Read Only Memory (B) Cache Memory (C) Peripheral Memory (D) Random Access Memory
+D	90	CPU的振盪時脈(clock)為3.2GHZ下列何者是錯的? (A)1秒產生3.2x10^9 個clocks (B) 表示一個clock為(1/3.2)x10^-9 秒 (C) 一個clock為0.3125 ns (D) 一個clock為0.3125 us
+C	91	下列何者不是高階語言? (A) BASIC  (B) COBOL  (C) ASSEMBLY  (D) C
+B	92	下列何者是錯的? (A) Window 98是多工OS  (B) Window 98是多人使用OS  (C) Window XP是多工OS  (D) Window XP是多人使用OS
+C	100	電腦內部有三種Bus，下列何者不是其中之一? (A) Data Bus (B) Address Bus (C) Public Bus (D) Control Bus
+B	101	下列何者是對的? (A) Android 4.4 稱為 Kitkat (B) Android 4.3 稱為 Ice Cream Sandwish (C) Android 4.2 稱為Jelly Bean (D) Android 3.0 稱為Honeycomb
+C	102	iPhone 5s配備有兩個處理器除了A7之外還有一個協同處理器是? (A) N7 (B) B7 (C) M7 (D) X7
+C	103	"2013年最有價值品牌,下列何者是錯的? (A) 第二名微軟 (B) 第三名可口可樂 (C)第四名 GOOGLE (D) 第一名Apple"
+B	104	最新報告2歲以下兒童使用行動裝置比例幾乎五個小孩當中，就有 (A) 一個 (B) 二個 (C) 三個 (D) 四個  小孩使用平板電腦或智慧型手機。
+B	105	Google網頁每逢各種節日而創作的Logo，稱之為? (A) Google Chrome (B) Google Doodle (C) Google Logo (D) Google Scription
+B	106	2013年微軟瀏覽器IE正式使用版本? (A) 12 (B) 11 (C) 10 (D) 9
+C	107	為了應付4K錄影，SD協會發佈新的標準是? (A) UHS 5 (B)UHS 4 (C) UHS 3 (D) UHS 2
+C	108	2010年Google宣佈美國哪一個城市將推出Google Fiber光纖到府服務? (A) 洛杉磯 (B) 奧克拉荷馬市 (C) 堪薩斯城 (D) 克里夫蘭
+A	109	Apple2013年宣佈計畫在美國哪一州建立生產基地? (A) 亞利桑那 (B) 德州 (C) 加州 (D) 明尼蘇達州
+C	110	下列何者是錯的? (A) 智慧型手機的架構是ARM架構 (B)ARM架構是採RISC處理器 (C) WINDOW Phone架構採CISC處理器 (D) iPhone架構是採RISC處理器
+C	1	底下哪一種型態的硬碟是所謂的固態硬碟的縮寫？ (A) SCSI (B) IDE (C) SSD (D) PCI
+B	2	關於蘋果電腦最新推出的iPad Air，下列何者為非？ (A) 使用Retina顯示器 (B) 使用A6晶片 (C) 擁有FaceTime功能 (D) 使用iOS 7
+B	3	下列何者是錯的? (A) (13)4進位 (B) (12)2進位 (C) (15)8進位 (D) (A10)16進位
+B	4	下列哪一種遊戲機，完全不需要控制器，而是把自己的身體當作控制器，只要靠手勢、聲音就能執行動作？ (A) Wii (B) Kinect (C) PS3 (D) PSP
+C	5	"若使用iPhone, iPad等蘋果電腦產品，若要下載App，你必須到下列哪一個平台進行合法下載？ (A) Google Market (B) Google Play (C) App Store (D) App Market"
+D	6	下列哪一個不是製造CPU的公司品牌縮寫？ (A) Intel (B) AMD (C) VIA (D) TSMC
+C	7	目前市面上的Intel CPU，已經出到？ (A) Core i3 (B) Core i5 (C) Core i7 (D) Core i9
+B	8	目前市面上的USB標準，已經出到？ (A) USB 2.0 (B) USB 3.0 (C) USB 4.0 (D) USB 5.0
+D	9	下列哪一種Windows作業系統，可以支援多點觸控功能？ (A) Windows Vista (B) Windows Server 2012 (C) Windows 7 (D) Windows 8
+B	10	64位元版本的Windows比32位元版本，在哪一個地方表現較佳？ (A) 硬碟容量較大 (B) 在處理大量隨機存取記憶體上更有效率 (C) 畫面顯示較清楚 (D) 續航力較佳
+B	11	微軟所推出的哪一款Office，可支援雲端連線與觸控？ (A) Office 2010 (B) Office 2013 (C) Office 2014 (D) Super Office
+D	12	下列哪者不屬於「多媒體撥放軟體」？ (A) Windows Media Player (B) Potplayer (C) QuickTime (D) Maya
+B	13	臉書(Facebook)亞洲區副總裁在2013年9月17日表示，台灣市場每個月的臉書活躍用戶數量為？ (A) 1200萬 (B) 1400萬 (C) 1600萬 (D) 1800萬
+A	14	根據2013年9月18日的中國時報報導，目前全世界臉書(Facebook)的用戶為？ (A) 11億人 (B) 13億人 (C) 15億人 (D) 17億人
+B	15	在歐美國家的人們，最常使用下列何種社交網絡與微網誌服務？ (A) Plurk (B) Twitter (C) Line (D) RC
+B	16	Google所推出的社區網絡平台為？ (A) Google Go (B) Google Plus (C) Google Niche (D) Google Net
+C	17	Google Mail目前(2013年11月)免費提供每位使用者多少容量空間？ (A) 10GB (B) 13GB (C) 15GB (D) 18GB
+B	26	微軟最新推出的office軟體是？ (A) office 180 (B) office 365 (C) office 360 (D) office 24hr
+C	27	根據2013年11月21日中國時報報導，在第42屆全球Top500最強大的超級電腦排名中，哪一間公司的CPU所佔的比例達8成？ (A) AMD (B) MSI (C) Intel (D) Apple
+B	28	根據2013年11月21日中國時報報導，資策會表示，台灣電子商務產值（B2C及C2C）預期2015年時，可望突破？ (A) 5000億元 (B) 一兆元 (C) 一兆5000億元 (D) 兩兆元
+B	29	2013年台灣市場手機銷售10月排行榜出爐，根據市調機構資料顯示，下列哪一個廠牌的手機拿下第一名寶座？ (A) 蘋果 (B) 三星 (C) 宏達電 (D) Sony
+D	30	根據中國時報2013年11月20日報導，台灣目前使用通訊軟體Line的帳戶總數是？ (A) 1400萬 (B) 1500萬 (C) 1600萬 (D) 1700萬
+D	31	根據中國時報2013年11月20日報導，台灣哪一間科技大廠11月份在美國對三星電子提出專利侵權訴訟？ (A) 宏達電 (B) 鴻海科技 (C) 台積電 (D) 大立光電
